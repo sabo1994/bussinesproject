@@ -1,0 +1,78 @@
+body {
+	background-color: #D90026;
+}
+
+h1 {
+	font-size: 76px;
+	text-align: center;
+	color: #D90026;
+	margin-top: 40px;
+	border: 30px solid;
+	border-color: #FFFF99;
+	background-color: #FFFF99;
+}
+
+
+#breach {
+	font-size: 36px;
+	text-decoration: underline;
+	margin-left: 20px;
+	font-family: comic sans ms;
+}
+
+#question {
+	font-size: 28px;
+	margin-left: 40px;
+	margin-right: 850px;
+	line-height: 40px;
+	float: left;
+	margin-top: -20px;
+	background-color: #FFFF99;
+	padding: 20px;
+}
+
+#yes {
+	font-size: 36px;
+	font-family: impact;
+	float: left;
+	margin-top: -10px;
+	margin-left: 100px;
+}
+
+#no {
+	font-size: 36px;
+	font-family: impact;
+	margin-top: -10px;
+	margin-right: 900px;
+	float: right;
+}
+
+#resize {
+	width: 500px;
+	height: 300px;
+	float: right;
+	margin-top: -400px;
+	margin-right: 100px;
+}
+
+div {
+	float: left;
+	margin-left: 30px;
+	margin-top: 50px;
+}
+
+#yes:hover{
+	color: #FFFFFF;
+}
+
+#no:hover{
+	color: #FFFFFF;
+}
+
+#give {
+	font-family: impact;
+	font-size: 18px;
+	float: left;
+	margin-top: -30px;
+	margin-left: 3px;
+}
